@@ -1,5 +1,4 @@
 ckecking out may first changes
-
 does it commit
 or not
 exploration in progress
